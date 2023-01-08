@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charbelgg" alt="charbelgg" /></a> </p>
 
-- 🔭 I’m currently working on **NP-completeness**
+- 🔭 I’m currently working on **Frontend Web development**
 
 - 🌱 I’m currently learning **REACT**
 
