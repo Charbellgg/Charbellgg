@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **charbelgerges40@gmail.com**
 
-- ⚡ Fun fact **Fun fact Harvard's CS50 course is what got me into coding**
+- ⚡ Fun fact **Harvard's CS50 course is what got me into coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
