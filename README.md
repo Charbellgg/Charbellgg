@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charbellgg" alt="charbellgg" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Web development**
+- 🔭 I’m currently working on **Back-end Web development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.NET**
 
-- 💬 Ask me about **Ask me about anything Web Dev**
+- 💬 Ask me about **anything Web Dev**
 
 - 📫 How to reach me **charbelgerges40@gmail.com**
 
